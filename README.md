@@ -16,14 +16,14 @@
 - :school: Soy estudiante, apasionada por el desarrollo frontend y la creación de experiencias de usuario fluidas.
 - :computer: Me encanta crear aplicaciones web intuitivas y responsivas utilizando HTML, CSS, JavaScript, React y TypeScript.
 - :nerd_face: Siempre aprendiendo y mejorando mis habilidades para mantenerme actualizada con las últimas tendencias en desarrollo web.
-- :thinking: Actualmente estoy buscando una oportunidad laboral. Puedes consultar mi [currículum aquí]([https://www.linkedin.com/in/jade-alexa-pichardo-arias](http://localhost:5173/images/CV%20JADE%20PICHARDO.pdf)/).
+- :thinking: Actualmente estoy buscando una oportunidad laboral. Puedes consultar mi [currículum aquí](http://localhost:5173/images/CV%20JADE%20PICHARDO.pdf).
 - :boom: Siéntete libre de visitar mi [Portafolio](https://jadealexaportfolio.com).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"> </picture> Mis Redes Sociales
 
 <p align="center">
-  <a href="[https://github.com/JadePichardo](https://github.com/Itsssariassss)"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://github.com/Itsssariassss"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/jade-ariasss-97959133b/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jade.arias@outlook.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 </p>
