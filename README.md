@@ -17,7 +17,7 @@
 - :computer: Me encanta crear aplicaciones web intuitivas y responsivas utilizando HTML, CSS, JavaScript, React y TypeScript.
 - :nerd_face: Siempre aprendiendo y mejorando mis habilidades para mantenerme actualizada con las últimas tendencias en desarrollo web.
 - :thinking: Actualmente estoy buscando una oportunidad laboral. Puedes consultar mi [currículum aquí](http://localhost:5173/images/CV%20JADE%20PICHARDO.pdf).
-- :boom: Siéntete libre de visitar mi [Portafolio](https://jadealexaportfolio.com).
+- :boom: Siéntete libre de visitar mi [Portafolio](https://ariasbytes.netlify.app/).
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width="40"> </picture> Mis Redes Sociales
